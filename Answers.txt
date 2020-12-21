@@ -1,0 +1,4 @@
+1--> we have already integrated the various sections into our home page and its fully functional.
+2--> next step is to add the database of hospitals and doctors for the non covid patients. we are even going to start the marketing section of our website.
+3--> yes we have already started working on it, the raw footages are ready 
+4--> we are having some queries regarding the final video
